@@ -1,0 +1,1 @@
+This is a chatbot based on a vector database that uses the chatGLM model. To use the code, you need to download the parameters of the chatGLM model (8G), place them in the model file, and replace your own vector database.
